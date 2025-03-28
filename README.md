@@ -7,5 +7,8 @@ I am a passionate developer with a deep interest in Deep Learning and low-level 
 ### Contact
 
 Feel free to contact me via [email](mailto:gonzalo.silvalde@gmail.com)
+
+
+
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gonzalosilvalde&theme=github)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzalosilvalde&layout=compact&theme=dark)
