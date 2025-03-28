@@ -9,6 +9,9 @@ I am a passionate developer with a deep interest in Deep Learning and low-level 
 Feel free to contact me via [email](mailto:gonzalo.silvalde@gmail.com)
 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gonzalosilvalde&theme=merko)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gonzalosilvalde&theme=merko&show_icons=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gonzalosilvalde&theme=merko)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gonzalosilvalde&theme=merko)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gonzalosilvalde&theme=merko&utcOffset=3)
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gonzalosilvalde&theme=github)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gonzalosilvalde&layout=compact&theme=dark)
